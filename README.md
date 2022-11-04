@@ -6,6 +6,8 @@
 
 **Editor e Criador de Imagem Vetorizada**
 
+**https://app.corelvector.com/**
+
 **https://pt.vectormagic.com/**
 
 
